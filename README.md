@@ -1,0 +1,2 @@
+# Translucidez
+Prediccion de Translucidez
